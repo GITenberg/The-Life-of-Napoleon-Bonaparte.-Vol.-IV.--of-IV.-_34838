@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26426
     wikipedia: http://en.wikipedia.org/wiki/William_Milligan_Sloane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34838#The-Life-of-Napoleon-Bonaparte.-Vol.-IV.--of-IV.-
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
 identifiers:
