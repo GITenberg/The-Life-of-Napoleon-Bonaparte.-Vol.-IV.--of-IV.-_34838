@@ -1,0 +1,30 @@
+_repo: The-Life-of-Napoleon-Bonaparte.-Vol.-IV.--of-IV.-_34838
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sloane, William Milligan
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '26426'
+    url: http://www.gutenberg.org/2009/agents/26426
+    wikipedia: http://en.wikipedia.org/wiki/William_Milligan_Sloane
+description: ''
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815 -- Bibliography'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Bibliography'
+title: The Life of Napoleon Bonaparte. Vol. 4 (of 4)
+url: http://www.gutenberg.org/ebooks/34838
